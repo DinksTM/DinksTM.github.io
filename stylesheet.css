@@ -1,0 +1,22 @@
+div 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	text-indent: 10px;
+	border: 15px solid OrangeRed;
+	background-color: rgba(255,99,71,0.1);
+	color: black;
+}
+footer {
+	font-family: Arial, Helvetica, sans-serif;
+	border-top-style: solid;
+	border-top-color: OrangeRed;
+	border-top-width: 1px;
+	font-size: 12px;
+}
+.title{
+	text-align:center;
+	margin: 40px;
+}
+.orangebg {
+	background-color:tomato
+}
