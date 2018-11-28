@@ -13,6 +13,19 @@ footer {
 	border-top-width: 1px;
 	font-size: 12px;
 }
+.parallax {
+    /* The image used */
+    background-image: url("78b.jpg");
+
+    /* Set a specific height */
+    height: 80%;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .title{
 	text-align:center;
 	margin: 40px;
